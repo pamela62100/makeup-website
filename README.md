@@ -1,12 +1,18 @@
 Makeup Website
 
-Welcome to the Makeup Website repository! This project is a beautifully designed website dedicated to makeup enthusiasts, offering product recommendations, tutorials, and beauty tips.
+Welcome to the Makeup Website repository! This project is a beautifully designed, aesthetically pleasing, and girly makeup website that offers product recommendations, tutorials, and beauty tips. It includes an interactive shopping cart and a login feature.
 
 Features
 
 Responsive and user-friendly design
 
+Aesthetic and girly theme
+
 Makeup product listings and recommendations
+
+Shopping cart with add/remove functionality
+
+Login button for user authentication
 
 
 Interactive UI for an engaging experience
@@ -43,4 +49,4 @@ This project is licensed under the MIT License.
 
 Contact
 
-For any inquiries or suggestions, please contact pamelasaliba62@gmail.com.
+For any inquiries or suggestions, please contact pamelasaliba62@gamil.com.
